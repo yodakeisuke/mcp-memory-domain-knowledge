@@ -1,0 +1,4 @@
+{"type":"entity","name":"Memory System Test","entityType":"System","observations":["メモリーシステムの初期化テスト","2024-02-02に作成","正常に動作することを確認"]}
+{"type":"entity","name":"Loglass Backend API","entityType":"Component","observations":["GraphQLベースのAPIサーバー","Node.jsで実装","ユーザー認証機能を含む"]}
+{"type":"entity","name":"User Authentication","entityType":"Feature","observations":["JWTを使用した認証システム","パスワードはbcryptでハッシュ化"]}
+{"type":"entity","name":"Database Schema","entityType":"Documentation","observations":["PostgreSQLを使用","ユーザーテーブルの設計","APIとの連携について"]}
