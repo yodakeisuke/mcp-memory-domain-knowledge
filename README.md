@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yodakeisuke-mcp-memory-domain-knowledge-badge.png)](https://mseep.ai/app/yodakeisuke-mcp-memory-domain-knowledge)
+
 forked https://github.com/modelcontextprotocol/servers/tree/main
 
 # Knowledge Graph Memory Server
